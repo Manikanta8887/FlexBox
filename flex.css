@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+}
+
+.container{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.div1{
+    background-color: white;
+    color: black;
+    margin: 150px 20px 20px 20px;
+    border-radius: 5%;
+    width: 15%;
+    height: 300px;
+}
+
+.div2{
+    background-color: white;
+    color: black;
+    margin: 50px 20px 20px 20px;
+    border-radius: 5%;
+    width: 15%;
+    height: 400px;
+}
+
+.div3{
+    background-color: white;
+    color: black;
+    margin: 150px 20px 20px 20px;
+    border-radius: 5%;
+    width: 15%;
+    height: 300px;
+}
+
+.div4{
+display: flex;
+justify-content: center;
+align-content: center;
+}
+
+button{
+    background-color: skyblue;
+    margin: 10px;
+}
+
+.div2 > h2{
+    background-color: skyblue;
+    margin: 0px 20px 20px 20px;
+}
+
+p{
+    padding: 10px;;
+}
+
+a,h2,h3{
+    margin: 10px;
+}
